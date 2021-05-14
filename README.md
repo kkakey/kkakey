@@ -1,6 +1,5 @@
 ### Hello! 👋 I'm Kristen
 
-I am passionate about using data and data science to help make a meaningful, positive impact on the public good.
 <br>
 
 - 🔭 I’m currently working on data viz and machine learning projects
