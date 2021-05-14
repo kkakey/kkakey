@@ -1,7 +1,5 @@
 ### Hello! 👋 I'm Kristen
 
-<br>
-
 - 🔭 I’m currently working on data viz and machine learning projects
 - :city_sunrise: I'm located in NYC
 - 📫 How to reach me: kka2120@columbia.edu
