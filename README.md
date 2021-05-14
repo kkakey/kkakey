@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello! 👋 I'm Kristen
+
+I am passionate about using data and data science to help make a meaningful, positive impact on the public good.
+<br>
+
+- 🔭 I’m currently working on data viz and machine learning projects
+- :city_sunrise: I'm located in NYC
+- 📫 How to reach me: kka2120@columbia.edu
+- 😄 Pronouns: she/her
+
+<br>
+
+![Kristen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkakey&show_icons=true&theme=tokyonight)
+
 
 <!--
 **kkakey/kkakey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
