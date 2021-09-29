@@ -1,6 +1,6 @@
 ### Hello! 👋 I'm Kristen
 
-- 🔭 I’m currently working on data viz, geospatial, and machine learning projects
+- 🔭 I’m currently working on data viz, geospatial, and web scraping projects
 - :city_sunrise: I'm located in NYC
 - 📫 How to reach me: kka2120@columbia.edu
 - 😄 Pronouns: she/her
