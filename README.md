@@ -1,13 +1,14 @@
-### Hello! 👋 I'm Kristen
+### Hello! 👋 <br> I'm Kristen
 
-- 🔭 I’m currently working on data viz, geospatial, and web scraping projects
+<!-- - 📊 I'm a data analyst
+- 🔭 I’m currently working on data viz, geospatial, and web scraping projects -->
 - :city_sunrise: I'm located in NYC
 - 📫 How to reach me: kka2120@columbia.edu
 - 😄 Pronouns: she/her
 
-<br>
+<!-- <br> -->
 
-![Kristen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkakey&show_icons=true&theme=tokyonight)
+<!-- ![Kristen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkakey&show_icons=true&theme=tokyonight) -->
 
 
 <!--
