@@ -2,6 +2,7 @@
 
 <!-- - 📊 I'm a data analyst
 - 🔭 I’m currently working on data viz, geospatial, and web scraping projects -->
+- ☀️ I'm a Data Analyst
 - :city_sunrise: I'm located in NYC
 - 📫 How to reach me: kka2120@columbia.edu
 - 😄 Pronouns: she/her
