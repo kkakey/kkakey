@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on data viz, geospatial, and web scraping projects -->
 - ☀️ I'm an Analytics Engineer
 - :city_sunrise: I'm located in NYC
-- 📫 How to reach me: kristen.k.akey@gmail.com
 - 😄 Pronouns: she/her
 
 <!-- <br> -->
